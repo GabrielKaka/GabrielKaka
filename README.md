@@ -151,14 +151,14 @@ align="left"
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
  </a> 
-    <a href="https://github.com/GabrielKaka?tab=repositories&sort=stargazers">
+    <!-- <a href="https://github.com/GabrielKaka?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/DevMacedojr?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
-</a>
-    <a href="https://github.com/DevMacedojr?tab=followers">
+</a> -->
+    <a href="https://github.com/GabrielKaka?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
@@ -194,6 +194,7 @@ align="left"
 
 
           
+
 
 
 
