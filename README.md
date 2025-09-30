@@ -6,7 +6,7 @@
 **`Desenvolvedor FullStack Em Formação`**
 **`FullStack Developer In Training`**
 
-Estudante de Engenharia de Software com conhecimentos em MySQL, PHP, VUE, TS, JS, HTML, CSS e Git. Possuo experiência em suporte técnico "[Linkedin](https://www.linkedin.com/in/gabriel-assun%C3%A7%C3%A3o-62a80b303)". Sou proativo, com forte capacidade de aprendizado e pronto para contribuir desde o primeiro dia.
+Estudante de Engenharia de Software com conhecimentos em MySQL, PHP, TS, JS, HTML, CSS e Git. Possuo experiência em suporte técnico "[Linkedin](https://www.linkedin.com/in/gabriel-assun%C3%A7%C3%A3o-62a80b303)". Sou proativo, com forte capacidade de aprendizado e pronto para contribuir desde o primeiro dia.
 
 
 
