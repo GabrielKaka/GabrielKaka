@@ -69,15 +69,6 @@ align="left"
     style="padding-right: 10px;"         
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
 />
-
- <img
-align="left" 
-    alt="canva" 
-    title="canva"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" 
-/>
           
 <!-- <img
 align="left" 
@@ -184,6 +175,7 @@ align="left"
 
 
           
+
 
 
 
