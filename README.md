@@ -6,7 +6,7 @@
 **`Desenvolvedor FullStack Em Formação`**
 **`FullStack Developer In Training`**
 
-Estudante de Engenharia de Software com conhecimentos em MySQL, PHP, VUE, TS, JS, HTML, CSS e Git. Possuo experiência em suporte técnico "[Linkedin](https://www.linkedin.com/in/gabriel-assun%C3%A7%C3%A3o)". Sou proativo, com forte capacidade de aprendizado e pronto para contribuir desde o primeiro dia.
+Estudante de Engenharia de Software com conhecimentos em MySQL, PHP, VUE, TS, JS, HTML, CSS e Git. Possuo experiência em suporte técnico "[Linkedin](https://www.linkedin.com/in/gabriel-assun%C3%A7%C3%A3o-62a80b303)". Sou proativo, com forte capacidade de aprendizado e pronto para contribuir desde o primeiro dia.
 
 
 
@@ -137,7 +137,7 @@ align="left"
     <a href="mailto:gabrielassuncaoandre58424@gmai.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
 </a>
-     <a href="https://www.linkedin.com/in/gabriel-assun%C3%A7%C3%A3o">
+     <a href="https://www.linkedin.com/in/gabriel-assun%C3%A7%C3%A3o-62a80b303">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
  </a> 
@@ -184,6 +184,7 @@ align="left"
 
 
           
+
 
 
 
