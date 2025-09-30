@@ -133,17 +133,17 @@ align="left"
 ### 📞 Contato e Informações 
 
  <div style="display: flex; gap: 10px;">
-    <a href="https://instagram.com/omacedojose2k25">
+    <a href="https://www.instagram.com/andregabrieell">
         <img src="https://img.shields.io/badge/Instagram-FFA500?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
 </a>
-    <a href="mailto:youloiolatube@gmail.com">
+    <a href="mailto:gabrielassuncaoandre58424@gmai.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
 </a>
-     <a href="https://www.linkedin.com/in/ljml2006">
+     <a href="https://www.linkedin.com/in/gabriel-assun%C3%A7%C3%A3o">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
  </a> 
-    <a href="https://github.com/DevMacedojr?tab=repositories&sort=stargazers">
+    <a href="https://github.com/GabrielKaka?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
@@ -186,6 +186,7 @@ align="left"
 
 
           
+
 
 
 
