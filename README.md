@@ -53,14 +53,6 @@ align="left"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" 
 />
           
-<!-- <img
-align="left" 
-    alt="KAlli" 
-    title="KAlli"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" 
-/> -->
 <img
 align="left" 
     alt="C" 
@@ -88,13 +80,6 @@ align="left"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
 />
           
-<img
-align="left" 
-    alt="netcore" 
-    title="netore"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" 
 <img
 align="left" 
     alt="C" 
