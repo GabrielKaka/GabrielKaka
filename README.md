@@ -115,6 +115,15 @@ align="left"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
  />
 
+ <img
+ align="left" 
+    alt="JS" 
+    title="JS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+ />
+ 
 <br/>
 <br/>
 
@@ -176,6 +185,7 @@ align="left"
 
 
           
+
 
 
 
