@@ -1,4 +1,4 @@
-#  👨🏽‍💻 Leonardo Macedo
+#  👨🏽‍💻 Gabriel Assunção
  
 ### 🎓 Estudante De Engenharia de Software. 
 
@@ -6,7 +6,7 @@
 **`Desenvolvedor FullStack Em Formação`**
 **`FullStack Developer In Training`**
 
-Estudante de Engenharia de Software com conhecimentos em C#, Python, MySQL, HTML, CSS e Git. Possuo experiência em suporte técnico "[Linkedin](www.linkedin.com/in/ljml2006)". Sou proativo, com forte capacidade de aprendizado e pronto para contribuir desde o primeiro dia.
+Estudante de Engenharia de Software com conhecimentos em MySQL, PHP, VUE, TS, JS, HTML, CSS e Git. Possuo experiência em suporte técnico "[Linkedin](https://www.linkedin.com/in/gabriel-assun%C3%A7%C3%A3o)". Sou proativo, com forte capacidade de aprendizado e pronto para contribuir desde o primeiro dia.
 
 
 
@@ -14,7 +14,7 @@ Estudante de Engenharia de Software com conhecimentos em C#, Python, MySQL, HTML
 
 ### 🤖 Linguagens e Tecnologias 
 
-#### Linguagens: C#, Python, JavaScript (Básico) Desenvolvimento Web: HTML5, CSS3 (Básico) Bancos de Dados: MySQL, SQL Server Ferramentas: Git, GitHub, VS Code Conceitos: Lógica de Programação, POO, APIs REST Hardware: Montagem e Manutenção de Computadores. (Pleno)
+#### Linguagens: PHP, JavaScript (Básico) Desenvolvimento Web: HTML5, CSS3 (Básico) Bancos de Dados: MySQL, SQL Server Ferramentas: Git, GitHub, VS Code Conceitos: Lógica de Programação, POO, APIs REST Hardware: Montagem e Manutenção de Computadores.
 
 
 <img
@@ -53,15 +53,14 @@ align="left"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" 
 />
           
-<img
+<!-- <img
 align="left" 
     alt="KAlli" 
     title="KAlli"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" 
-/>
-
+/> -->
 <img
 align="left" 
     alt="C" 
@@ -80,15 +79,14 @@ align="left"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" 
 />
           
-<img
+<!-- <img
 align="left" 
     alt="netcore" 
     title="netore"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" 
-/>
-
+/> -->
 <img
 align="left" 
     alt="css3" 
@@ -107,14 +105,14 @@ align="left"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-<img          
+<!-- <img          
 align="left" 
     alt="csharp" 
     title="csharp"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
-/>
+/> -->
 
  <img
  align="left" 
@@ -186,6 +184,7 @@ align="left"
 
 
           
+
 
 
 
