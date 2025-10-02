@@ -61,24 +61,6 @@ align="left"
     style="padding-right: 10px;"         
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
 />
-          
-<!-- <img
-align="left" 
-    alt="netcore" 
-    title="netore"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
-  /> -->
-          
-<img
-align="left" 
-    alt="netcore" 
-    title="netore"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" 
-/>
 <img
 align="left" 
     alt="css3" 
@@ -96,15 +78,6 @@ align="left"
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
-<!-- <img          
-align="left" 
-    alt="csharp" 
-    title="csharp"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
-/> -->
 
  <img
  align="left" 
@@ -150,14 +123,7 @@ align="left"
      <a href="https://www.linkedin.com/in/gabriel-assun%C3%A7%C3%A3o-62a80b303">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
- </a> 
-    <!-- <a href="https://github.com/GabrielKaka?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/DevMacedojr?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-</a> -->
+ </a>
     <a href="https://github.com/GabrielKaka?tab=followers">
         <img 
             alt="Seguidores" 
@@ -194,6 +160,7 @@ align="left"
 
 
           
+
 
 
 
