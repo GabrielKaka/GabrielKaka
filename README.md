@@ -136,7 +136,7 @@ align="left"
 
 ---
 
-### 📊 Estatísticas
+<!--### 📊 Estatísticas -->
 
 
   <!--<img 
@@ -160,6 +160,7 @@ align="left"
 
 
           
+
 
 
 
